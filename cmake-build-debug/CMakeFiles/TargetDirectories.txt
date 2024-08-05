@@ -1,0 +1,3 @@
+/Users/harrisonbaker/CLionProjects/Exit-Ticket-8-5/cmake-build-debug/CMakeFiles/Exit_Ticket_8_5.dir
+/Users/harrisonbaker/CLionProjects/Exit-Ticket-8-5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/harrisonbaker/CLionProjects/Exit-Ticket-8-5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
